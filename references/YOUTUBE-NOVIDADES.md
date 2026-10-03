@@ -1,6 +1,6 @@
 # Kevones YouTube (@1kevones): o que tem de novo e importante
 
-Gerado em 2026-09-24 a partir de 135 transcrições (129 vídeos + 6 lives, set/2023 a set/2026).
+Gerado em 2026-10-02 a partir de 136 transcrições (130 vídeos + 6 lives, set/2023 a set/2026).
 Notas detalhadas por vídeo: `notas-A.md` … `notas-E.md`. Cruzado com o curso `../../Kevones-2026/`.
 
 ## Só no YouTube (não está no curso)
@@ -16,6 +16,7 @@ Notas detalhadas por vídeo: `notas-A.md` … `notas-E.md`. Cruzado com o curso 
 | Oferta de janela | Evento externo com data pública real + entrega pronta + preço de impulso; para fazer caixa rápido | SCxw6jElXio |
 | Mineração com "Minerar Ads" | Biblioteca de Anúncios: mínimo 2 anúncios ativos, máximo 40 dias, acompanhar 3 dias crescendo antes de modelar | c8Nm7euTOTM, HBAper7lnSs |
 | Perfil de Instagram obrigatório | Mesmo sem rosto: CPM até 3x menor, CPA até 67% menor; campanha de seguidores permanente (mesmo negativa) | tMPcLtc6Xzk, 7n2jP39qbxU |
+| Públicos de base em ecossistema | Campanha própria: PageView 180d + engajamento 7d; IC 7/15/30d; seguidores; envolvimento 15d; excluir compradores 180d. Só ganha força com volume de dados | Vtjdg86wDxA (29/09/2026) |
 | Aquecer o post antes da conversão | Sobe o criativo como post, junta engajamento, usa "publicação existente" na campanha de conversão | ZjxA6NGa7AY, -jrl2OmjOcY |
 | Low ticket com rosto | 2 semanas de reels (3/dia) + stories + campanha de seguidores (~R$ 20/dia); depois 3 campanhas x 3 criativos, R$ 45 cada | DFRjMnZMf1w |
 | Imposto 2026 | ~12–15% sobre o investido; ROAS 2,36 → 2,11. Ticket abaixo de R$ 47 deixou de compensar; ideal R$ 47–67 ou mais de R$ 97 com LTV | -1bbWlatCtc, BCorw4x7q3s |

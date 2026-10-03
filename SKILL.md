@@ -5,12 +5,12 @@ description: Metodologia de tráfego pago do Kevones (Seleta Comunidade) — qua
 
 # metaads-kevones
 
-Acesso atualizado (2026-09-07) ao curso do Kevones (Seleta Comunidade, Membriz).
+Acesso e mapa atualizados em **2026-10-02** ao curso do Kevones (Seleta Comunidade, id=15).
 Conteúdo transcrito na íntegra em texto corrido, organizado por módulo, fora do
 diretório de skills (é curso pago, fica em Documentos, não versionado):
 
 ```
-/home/lua/Documentos/1-Pessoal/cursos/SELETA-COMUNIDADE-TRAFEGO/Kevones-2026/
+/home/lua/Documentos/TRAMPO/PROJETOS/WORKING/PROJETOS - INTERNOS/SKILL-KEVONES/transcricoes/curso-id15/
 ```
 
 Índice completo com link pra cada aula: `references/INDICE.md` (cópia do
@@ -18,9 +18,11 @@ diretório de skills (é curso pago, fica em Documentos, não versionado):
 
 ## Como usar
 
-1. Não leia os 109 arquivos de uma vez. Abra `references/INDICE.md`, ache o
-   módulo relevante pro que você precisa decidir agora.
-2. Leia só as aulas daquele módulo.
+1. **Comece em `references/METODO-DESTILADO.md`**: regras atuais, números e fontes.
+2. Para lives, leia `references/CALLS-NOVIDADES.md`; para criativo, leia
+   `references/CRIATIVOS-KEVONES.md` (cópia gerada da fonte única da skill criativo-ads).
+3. Só então abra `references/INDICE.md` e uma transcrição pontual; o mapa auditável é
+   `references/mapa-curso.json`.
 3. Módulos-chave por situação:
    - **Já tem oferta, não escala** → `05-meta-ads-2026-andromeda` (configurar conta) → `08-metodologia-de-escala` (ROAS sem subir CPA, escala horizontal/vertical) → `09-empilhamento-de-bidcap`.
    - **Não sabe se a oferta converte** → `06-sua-oferta-converte`.
@@ -35,8 +37,8 @@ diretório de skills (é curso pago, fica em Documentos, não versionado):
 
 ## YouTube do Kevones (@1kevones): mais novo que o curso
 
-135 transcrições (set/2023 a set/2026) em
-`/home/lua/Documentos/1-Pessoal/cursos/SELETA-COMUNIDADE-TRAFEGO/YOUTUBE-1kevones/`
+136 transcrições (set/2023 a set/2026) em
+`/home/lua/Documentos/TRAMPO/PROJETOS/WORKING/PROJETOS - INTERNOS/SKILL-KEVONES/transcricoes/youtube-1kevones/`
 (`videos/`, `lives/`; arquivo `AAAA-MM-DD Título [id].txt`). Análise em `analise/`:
 `RELATORIO.md` (resumo) e `notas-A..E.md` (vídeo a vídeo, por período).
 
@@ -55,7 +57,10 @@ Faltam 28 vídeos antigos (2023/24, gestor de serviço e tutoriais básicos): ba
 
 ## Estado
 
-- Curso principal (id=15): 108 aulas mapeadas, 105 com transcrição (3 exceções documentadas no `README.md` de Documentos).
+- Curso principal (id=15): **112 aulas mapeadas**, 111 com player YouTube e texto; aula 164
+  continua sem player. A aula 158 não possui legenda e o player retornou mídia indisponível.
+- Rodada 2026-10-02: módulo **Ofertas Validadas** e 5 aulas novas (96, 97, 171, 178, 181);
+  aula 332 removida; calls 223/224 tiveram apenas título atualizado, sem troca de player.
 - Curso "Close Friends do Kevones" (id=13, acesso trancado/progressivo): **não mapeado ainda** nesta passada — só o curso principal.
 - Versão anterior (ago/2025, ~24 módulos com nomenclatura diferente) arquivada em `/home/lua/Documentos/1-Pessoal/cursos/SELETA-COMUNIDADE-TRAFEGO/Kevones-ANTIGO-2025-archive/` — **não usar como referência**, o curso mudou de estrutura (Andrômeda 2026, Metodologia de Escala e Empilhamento de BidCap são módulos novos).
 

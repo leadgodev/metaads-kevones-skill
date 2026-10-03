@@ -1,6 +1,7 @@
 # Kevones — Seleta Comunidade — Índice completo (curso id=15)
 
-Gerado em 2026-09-07. Transcrição via legendas automáticas do YouTube (youtube-transcript-api).
+Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcrições em
+`SKILL-KEVONES/transcricoes/curso-id15/` (o caminho antigo continua por symlink).
 
 
 ## Comece aqui! (Obrigatório)
@@ -10,8 +11,8 @@ Gerado em 2026-09-07. Transcrição via legendas automáticas do YouTube (youtub
 ## Replays das Lives
 
 - [Pegue seu ingresso](02-replays-das-lives/01-Pegue_seu_ingresso.md) — aula 271
-- [Tudo sobre a ANDROMEDA! (Meta Ads 2025) - 14/11/25](02-replays-das-lives/02-Tudo_sobre_a_ANDROMEDA_Meta_Ads_2025_-_14_11_25.md) — aula 224
-- [Facebook ADS 2025 - Call Insana! (30/09/25)](02-replays-das-lives/03-Facebook_ADS_2025_-_Call_Insana_30_09_25.md) — aula 223
+- [Facebook ADS 2026 - Call Insana! (fonte 30/09/25)](02-replays-das-lives/03-Facebook_ADS_2025_-_Call_Insana_30_09_25.md) — aula 223 (título mudou; mesmo player)
+- [Tudo sobre a ANDROMEDA! (Meta Ads 2026; fonte 14/11/25)](02-replays-das-lives/02-Tudo_sobre_a_ANDROMEDA_Meta_Ads_2025_-_14_11_25.md) — aula 224 (título mudou; mesmo player)
 - [Live - Otimizando e Escalando Infoprodutos](02-replays-das-lives/04-Live_-_Otimizando_e_Escalando_Infoprodutos.md) — aula 180
 - [+40 Gestores em uma Call Otimizando Campanhas](02-replays-das-lives/05-40_Gestores_em_uma_Call_Otimizando_Campanhas.md) — aula 152
 - [Pov: Otimizando Campanhas de INFOPRODUTOS ao VIVO!](02-replays-das-lives/06-Pov_Otimizando_Campanhas_de_INFOPRODUTOS_ao_VIVO.md) — aula 153
@@ -19,7 +20,16 @@ Gerado em 2026-09-07. Transcrição via legendas automáticas do YouTube (youtub
 - [Otimizando e ESCALANDO no FACEBOOK ADS na prática!](02-replays-das-lives/08-Otimizando_e_ESCALANDO_no_FACEBOOK_ADS_na_pr_tica.md) — aula 155
 - [Como testar um OFERTA no Facebook Ads (Sem muito DINHEIRO)](02-replays-das-lives/09-Como_testar_um_OFERTA_no_Facebook_Ads_Sem_muito_DINHEIRO.md) — aula 156
 - [Call de Otimização ao VIVO!](02-replays-das-lives/10-Call_de_Otimiza_o_ao_VIVO.md) — aula 164 ⚠ sem transcrição
-- [aaaaa](02-replays-das-lives/11-aaaaa.md) — aula 332 ⚠ sem transcrição
+
+> Aula 332 (`aaaaa`) foi removida do Membriz em 2026-10-02; texto histórico preservado.
+
+## Ofertas Validadas (novo módulo)
+
+- [Saas Financeiro - Copie, cole e lucre!](20-ofertas-validadas/01-Saas_Financeiro_-_Copie_cole_e_lucre.md) — aula 96
+- [Estruturador de Sermões - Copie, cole e lucre!](20-ofertas-validadas/02-Estruturador_de_Sermoes_-_Copie_cole_e_lucre.md) — aula 97
+- [Oferta em Dólar - Gênio da Música](20-ofertas-validadas/03-Oferta_em_Dolar_-_Genio_da_Musica.md) — aula 171
+- [Low Ticket em Dólar - Método Esther](20-ofertas-validadas/04-Low_Ticket_em_Dolar_-_Metodo_Esther.md) — aula 178
+- [Oferta Validada - Estruturador Latam](20-ofertas-validadas/05-Oferta_Validada_-_Estruturador_Latam.md) — aula 181
 
 ## Curso de Tráfego do Zero
 
@@ -149,6 +159,8 @@ Gerado em 2026-09-07. Transcrição via legendas automáticas do YouTube (youtub
 - [Campanhas de Conversão](19-trafego-para-ecommerce/05-Campanhas_de_Convers_o.md) — aula 149
 - [Otimizando na Prática](19-trafego-para-ecommerce/06-Otimizando_na_Pr_tica.md) — aula 150
 - [Públicos quente e Remarketing](19-trafego-para-ecommerce/07-P_blicos_quente_e_Remarketing.md) — aula 151
+
+## Outras Aulas (módulo atual do Membriz)
 - [Como as Campanhas funcionam na Prática!](19-trafego-para-ecommerce/08-Como_as_Campanhas_funcionam_na_Pr_tica.md) — aula 230
 - [Como definir seu Objetivo de Campanha!](19-trafego-para-ecommerce/09-Como_definir_seu_Objetivo_de_Campanha.md) — aula 231
 - [Tudo sobre Conjuntos de Anúncios](19-trafego-para-ecommerce/10-Tudo_sobre_Conjuntos_de_An_ncios.md) — aula 232
