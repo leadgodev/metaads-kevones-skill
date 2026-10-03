@@ -1,0 +1,169 @@
+# Kevones — Seleta Comunidade — Índice completo (curso id=15)
+
+Gerado em 2026-09-07. Transcrição via legendas automáticas do YouTube (youtube-transcript-api).
+
+
+## Comece aqui! (Obrigatório)
+
+- [Por onde Começar?](01-comece-aqui/01-Por_onde_Come_ar.md) — aula 75
+
+## Replays das Lives
+
+- [Pegue seu ingresso](02-replays-das-lives/01-Pegue_seu_ingresso.md) — aula 271
+- [Tudo sobre a ANDROMEDA! (Meta Ads 2025) - 14/11/25](02-replays-das-lives/02-Tudo_sobre_a_ANDROMEDA_Meta_Ads_2025_-_14_11_25.md) — aula 224
+- [Facebook ADS 2025 - Call Insana! (30/09/25)](02-replays-das-lives/03-Facebook_ADS_2025_-_Call_Insana_30_09_25.md) — aula 223
+- [Live - Otimizando e Escalando Infoprodutos](02-replays-das-lives/04-Live_-_Otimizando_e_Escalando_Infoprodutos.md) — aula 180
+- [+40 Gestores em uma Call Otimizando Campanhas](02-replays-das-lives/05-40_Gestores_em_uma_Call_Otimizando_Campanhas.md) — aula 152
+- [Pov: Otimizando Campanhas de INFOPRODUTOS ao VIVO!](02-replays-das-lives/06-Pov_Otimizando_Campanhas_de_INFOPRODUTOS_ao_VIVO.md) — aula 153
+- [Facebook Ads: Lucrei +100K em 6 meses!](02-replays-das-lives/07-Facebook_Ads_Lucrei_100K_em_6_meses.md) — aula 154
+- [Otimizando e ESCALANDO no FACEBOOK ADS na prática!](02-replays-das-lives/08-Otimizando_e_ESCALANDO_no_FACEBOOK_ADS_na_pr_tica.md) — aula 155
+- [Como testar um OFERTA no Facebook Ads (Sem muito DINHEIRO)](02-replays-das-lives/09-Como_testar_um_OFERTA_no_Facebook_Ads_Sem_muito_DINHEIRO.md) — aula 156
+- [Call de Otimização ao VIVO!](02-replays-das-lives/10-Call_de_Otimiza_o_ao_VIVO.md) — aula 164 ⚠ sem transcrição
+- [aaaaa](02-replays-das-lives/11-aaaaa.md) — aula 332 ⚠ sem transcrição
+
+## Curso de Tráfego do Zero
+
+- [Introdução](03-curso-trafego-do-zero/01-Introdu_o.md) — aula 78
+- [Preparativos Práticos](03-curso-trafego-do-zero/02-Preparativos_Pr_ticos.md) — aula 79
+- [Como criar um gerenciador de negócios profissional](03-curso-trafego-do-zero/03-Como_criar_um_gerenciador_de_neg_cios_profissional.md) — aula 80
+- [Entendendo a hierarquia e seus ativos](03-curso-trafego-do-zero/04-Entendendo_a_hierarquia_e_seus_ativos.md) — aula 81
+- [Criando e conectando seus ativos](03-curso-trafego-do-zero/05-Criando_e_conectando_seus_ativos.md) — aula 82
+- [Pixel! Como funciona e como instalar](03-curso-trafego-do-zero/06-Pixel_Como_funciona_e_como_instalar.md) — aula 83
+- [Como as Campanhas funcionam na Prática!](03-curso-trafego-do-zero/07-Como_as_Campanhas_funcionam_na_Pr_tica.md) — aula 305
+- [Como definir seu Objetivo de Campanha!](03-curso-trafego-do-zero/08-Como_definir_seu_Objetivo_de_Campanha.md) — aula 306
+- [Tudo sobre Conjuntos de Anúncios](03-curso-trafego-do-zero/09-Tudo_sobre_Conjuntos_de_An_ncios.md) — aula 307
+- [Orçamento! (CBO, ABO, Diário e Vitalício)](03-curso-trafego-do-zero/10-Or_amento_CBO_ABO_Di_rio_e_Vital_cio.md) — aula 308
+- [Entendendo os Anúncios](03-curso-trafego-do-zero/11-Entendendo_os_An_ncios.md) — aula 309
+- [Criando uma Campanha na Prática](03-curso-trafego-do-zero/12-Criando_uma_Campanha_na_Pr_tica.md) — aula 310
+- [Otimizando Campanhas na Prática](03-curso-trafego-do-zero/13-Otimizando_Campanhas_na_Pr_tica.md) — aula 311
+
+## Criando um Infoproduto
+
+- [Minerando Infoprodutos validados](04-criando-infoproduto/01-Minerando_Infoprodutos_validados.md) — aula 314
+- [Modelando seu Site](04-criando-infoproduto/02-Modelando_seu_Site.md) — aula 315
+- [Criando seu Infoproduto](04-criando-infoproduto/03-Criando_seu_Infoproduto.md) — aula 316
+- [Cadastrando seu Infoproduto](04-criando-infoproduto/04-Cadastrando_seu_Infoproduto.md) — aula 317
+- [Modelando Criativos](04-criando-infoproduto/05-Modelando_Criativos.md) — aula 318
+
+## Meta Ads 2026 (Machine learning - Andromeda)
+
+- [Como configurar sua conta de anúncios (Andromeda)](05-meta-ads-2026-andromeda/01-Como_configurar_sua_conta_de_an_ncios_Andromeda.md) — aula 239
+
+## Sua oferta converte?
+
+- [Sua oferta converte?](06-sua-oferta-converte/01-Sua_oferta_converte.md) — aula 312
+
+## Teste, otimização e Validação (Meta 2026)
+
+- [Estrutura de Campanhas (Atualizado)](07-teste-otimizacao-validacao/01-Estrutura_de_Campanhas_Atualizado.md) — aula 237
+- [Metrícas e Otimização na Prática](07-teste-otimizacao-validacao/02-Metr_cas_e_Otimiza_o_na_Pr_tica.md) — aula 238
+
+## Metodologia de Escala (Meta 2026)
+
+- [Isolamento inteligente (Pré- Escala)](08-metodologia-de-escala/01-Isolamento_inteligente_Pr_-_Escala.md) — aula 240
+- [Escala diária e Progressiva](08-metodologia-de-escala/02-Escala_di_ria_e_Progressiva.md) — aula 241
+- [Ecossistema de Campanhas](08-metodologia-de-escala/03-Ecossistema_de_Campanhas.md) — aula 242
+- [Escalando com Meta de Custo!](08-metodologia-de-escala/04-Escalando_com_Meta_de_Custo.md) — aula 288
+
+## Empilhamento de BidCap
+
+- [Empilhamento de BidCap](09-empilhamento-de-bidcap/01-Empilhamento_de_BidCap.md) — aula 281
+
+## Tráfego para SaaS
+
+- [Tráfego para SaaS](10-trafego-para-saas/01-Tr_fego_para_SaaS.md) — aula 313
+
+## Tráfego para Expert
+
+- [Tráfego para Expert](11-trafego-para-expert/01-Tr_fego_para_Expert.md) — aula 319
+
+## LowTicket em Dólar na Prática
+
+- [Low ticket em Dólar - Introdução](12-lowticket-em-dolar-na-pratica/01-Low_ticket_em_D_lar_-_Introdu_o.md) — aula 247
+- [Estrutura Básica para vender em dólar](12-lowticket-em-dolar-na-pratica/02-Estrutura_B_sica_para_vender_em_d_lar.md) — aula 248
+- [Espionagem de Ofertas](12-lowticket-em-dolar-na-pratica/03-Espionagem_de_Ofertas.md) — aula 249
+- [Criando e Instalando o seu produto](12-lowticket-em-dolar-na-pratica/04-Criando_e_Instalando_o_seu_produto.md) — aula 250
+- [Modelagem com IA (Página de vendas)](12-lowticket-em-dolar-na-pratica/05-Modelagem_com_IA_P_gina_de_vendas.md) — aula 251
+- [Configurações Gerais (Pixels, fun page, utm)](12-lowticket-em-dolar-na-pratica/06-Configura_es_Gerais_Pixels_fun_page_utm.md) — aula 252
+- [Fazendo os Criativos](12-lowticket-em-dolar-na-pratica/07-Fazendo_os_Criativos.md) — aula 253
+- [Subindo a Campanha de vendas internacional](12-lowticket-em-dolar-na-pratica/08-Subindo_a_Campanha_de_vendas_internacional.md) — aula 254
+
+## Crie um SaaS em 30 minutos
+
+- [Criando um SaaS em 30 minutos](13-crie-um-saas-em-30-minutos/01-Criando_um_SaaS_em_30_minutos.md) — aula 244
+- [Construindo a Página de Vendas](13-crie-um-saas-em-30-minutos/02-Construindo_a_P_gina_de_Vendas.md) — aula 245
+- [Conheça o SaasBuild](13-crie-um-saas-em-30-minutos/03-Conhe_a_o_SaasBuild.md) — aula 246
+
+## Segredos do Tráfego (Avançado)
+
+- [Essa aula vai colocar 10k/Mês no seu Bolso! - Meta Ads 2025 o OURO do Tráfego Pago](14-segredos-do-trafego-avancado/01-Essa_aula_vai_colocar_10k_M_s_no_seu_Bolso_-_Meta_Ads_2025_o_OURO_do_Tr_fego_Pago.md) — aula 243
+- [Como criar Campanhas de WhatsApp que Vendem!](14-segredos-do-trafego-avancado/02-Como_criar_Campanhas_de_WhatsApp_que_Vendem.md) — aula 109
+- [Campanhas para Seguidores na Prática!](14-segredos-do-trafego-avancado/03-Campanhas_para_Seguidores_na_Pr_tica.md) — aula 110
+- [Remarketing de Alta Frequência](14-segredos-do-trafego-avancado/04-Remarketing_de_Alta_Frequ_ncia.md) — aula 111
+
+## MasterClass: Criativos Milionários
+
+- [Como criar criativos que convertem](15-masterclass-criativos-milionarios/01-Como_criar_criativos_que_convertem.md) — aula 98
+- [Criativos estilo TikTok](15-masterclass-criativos-milionarios/02-Criativos_estilo_TikTok.md) — aula 99
+- [Criativos Diretos](15-masterclass-criativos-milionarios/03-Criativos_Diretos.md) — aula 100
+- [Criativos de Catálogo](15-masterclass-criativos-milionarios/04-Criativos_de_Cat_logo.md) — aula 101
+- [Criativos de Dicas](15-masterclass-criativos-milionarios/05-Criativos_de_Dicas.md) — aula 102
+
+## Desafio do Infoproduto!
+
+- [Desafio do Infoproduto - Aula 01](16-desafio-do-infoproduto/01-Desafio_do_Infoproduto_-_Aula_01.md) — aula 141
+- [Desafio do Infoproduto - Aula 02](16-desafio-do-infoproduto/02-Desafio_do_Infoproduto_-_Aula_02.md) — aula 142
+- [Desafio do Infoproduto - Aula 03](16-desafio-do-infoproduto/03-Desafio_do_Infoproduto_-_Aula_03.md) — aula 143
+- [Desafio do Infoproduto - Aula 04](16-desafio-do-infoproduto/04-Desafio_do_Infoproduto_-_Aula_04.md) — aula 144
+
+## Curso: Agência Milionária
+
+- [Como gerenciar campanhas de clientes](17-curso-agencia-milionaria/01-Como_gerenciar_campanhas_de_clientes.md) — aula 112
+- [As 3 melhores maneiras de fechar contratos.](17-curso-agencia-milionaria/02-As_3_melhores_maneiras_de_fechar_contratos..md) — aula 113
+- [Captação Porta a Porta](17-curso-agencia-milionaria/03-Capta_o_Porta_a_Porta.md) — aula 114
+- [Captação com Anúncios on-line](17-curso-agencia-milionaria/04-Capta_o_com_An_ncios_on-line.md) — aula 115
+- [Captação com Produção de Conteúdo](17-curso-agencia-milionaria/05-Capta_o_com_Produ_o_de_Conte_do.md) — aula 116
+- [O script SECRETO para Fechar Contratos de Tráfego Pago!](17-curso-agencia-milionaria/06-O_script_SECRETO_para_Fechar_Contratos_de_Tr_fego_Pago.md) — aula 117
+- [Fechando um Contrato de 4k/mês ao VIVO!](17-curso-agencia-milionaria/07-Fechando_um_Contrato_de_4k_m_s_ao_VIVO.md) — aula 118
+- [Fechando um Contrato de 2.2k mês!](17-curso-agencia-milionaria/08-Fechando_um_Contrato_de_2.2k_m_s.md) — aula 119
+- [Como Fechar Contratos de R$1.200 na Prática!](17-curso-agencia-milionaria/09-Como_Fechar_Contratos_de_R_1.200_na_Pr_tica.md) — aula 120
+- [Como Gerar Resultados para Clientes de Tráfego Pago](17-curso-agencia-milionaria/10-Como_Gerar_Resultados_para_Clientes_de_Tr_fego_Pago.md) — aula 121
+- [Como Fidelizar Clientes!](17-curso-agencia-milionaria/11-Como_Fidelizar_Clientes.md) — aula 122
+- [Ferramentas que todo Gestor precisar conhecer](17-curso-agencia-milionaria/12-Ferramentas_que_todo_Gestor_precisar_conhecer.md) — aula 123
+- [Processos (Captação, fechamento, pós venda e gerenciamento)](17-curso-agencia-milionaria/13-Processos_Capta_o_fechamento_p_s_venda_e_gerenciamento.md) — aula 124
+
+## MasterClass - Contenção
+
+- [Contenção no Meta Ads! O que você irá aprender!](18-masterclass-contencao/01-Conten_o_no_Meta_Ads_O_que_voc_ir_aprender.md) — aula 130
+- [O que é e como funciona uma contenção](18-masterclass-contencao/02-O_que_e_como_funciona_uma_conten_o.md) — aula 131
+- [Tipos de Bloqueios no Meta Ads](18-masterclass-contencao/03-Tipos_de_Bloqueios_no_Meta_Ads.md) — aula 132
+- [Como Blindar sua BM na Prática](18-masterclass-contencao/04-Como_Blindar_sua_BM_na_Pr_tica.md) — aula 133
+- [Como nunca ter Criativos Bloqueados no Meta Ads](18-masterclass-contencao/05-Como_nunca_ter_Criativos_Bloqueados_no_Meta_Ads.md) — aula 134
+
+## Tráfego Para E-commerce
+
+- [Mensurando os dados](19-trafego-para-ecommerce/01-Mensurando_os_dados.md) — aula 145
+- [Estética e Confiabilidade](19-trafego-para-ecommerce/02-Est_tica_e_Confiabilidade.md) — aula 146
+- [Campanhas de compra de dados](19-trafego-para-ecommerce/03-Campanhas_de_compra_de_dados.md) — aula 147
+- [Qual criativo você deve usar?](19-trafego-para-ecommerce/04-Qual_criativo_voc_deve_usar.md) — aula 148
+- [Campanhas de Conversão](19-trafego-para-ecommerce/05-Campanhas_de_Convers_o.md) — aula 149
+- [Otimizando na Prática](19-trafego-para-ecommerce/06-Otimizando_na_Pr_tica.md) — aula 150
+- [Públicos quente e Remarketing](19-trafego-para-ecommerce/07-P_blicos_quente_e_Remarketing.md) — aula 151
+- [Como as Campanhas funcionam na Prática!](19-trafego-para-ecommerce/08-Como_as_Campanhas_funcionam_na_Pr_tica.md) — aula 230
+- [Como definir seu Objetivo de Campanha!](19-trafego-para-ecommerce/09-Como_definir_seu_Objetivo_de_Campanha.md) — aula 231
+- [Tudo sobre Conjuntos de Anúncios](19-trafego-para-ecommerce/10-Tudo_sobre_Conjuntos_de_An_ncios.md) — aula 232
+- [Orçamento! (CBO, ABO, Diário e Vitalício)](19-trafego-para-ecommerce/11-Or_amento_CBO_ABO_Di_rio_e_Vital_cio.md) — aula 233
+- [Entendendo os Anúncios](19-trafego-para-ecommerce/12-Entendendo_os_An_ncios.md) — aula 234
+- [Criando uma Campanha na Prática](19-trafego-para-ecommerce/13-Criando_uma_Campanha_na_Pr_tica.md) — aula 235
+- [Comece aqui! Tudo que você irá aprender!](19-trafego-para-ecommerce/14-Comece_aqui_Tudo_que_voc_ir_aprender.md) — aula 135
+- [Domine os Infoprodutos no Meta Ads](19-trafego-para-ecommerce/15-Domine_os_Infoprodutos_no_Meta_Ads.md) — aula 125
+- [Como Testar Públicos na Prática](19-trafego-para-ecommerce/16-Como_Testar_P_blicos_na_Pr_tica.md) — aula 126
+- [O objetivo certo para Campanhas de Delivery](19-trafego-para-ecommerce/17-O_objetivo_certo_para_Campanhas_de_Delivery.md) — aula 136
+- [Modelos de Contratos](19-trafego-para-ecommerce/18-Modelos_de_Contratos.md) — aula 158 ⚠ sem transcrição
+- [Orçamento de Campanhas para Delivery!](19-trafego-para-ecommerce/19-Or_amento_de_Campanhas_para_Delivery.md) — aula 137
+- [Teste de Criativos para Infoprodutos](19-trafego-para-ecommerce/20-Teste_de_Criativos_para_Infoprodutos.md) — aula 127
+- [Quais Públicos você deve utilizar!](19-trafego-para-ecommerce/21-Quais_P_blicos_voc_deve_utilizar.md) — aula 138
+- [Otimização para Infoprodutos](19-trafego-para-ecommerce/22-Otimiza_o_para_Infoprodutos.md) — aula 128
+- [Escala de Infoprodutos no Meta Ads](19-trafego-para-ecommerce/23-Escala_de_Infoprodutos_no_Meta_Ads.md) — aula 129
+- [Criativos Vencedores para Delivery!](19-trafego-para-ecommerce/24-Criativos_Vencedores_para_Delivery.md) — aula 139
+- [Otimização! e Escala!](19-trafego-para-ecommerce/25-Otimiza_o_e_Escala.md) — aula 140

@@ -1,0 +1,7 @@
+# Local course access information; never commit.
+references/LOCAL-ACESSO.md
+
+# Editor and operating-system artifacts.
+.DS_Store
+*.swp
+*.swo
