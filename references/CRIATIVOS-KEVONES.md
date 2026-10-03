@@ -220,3 +220,49 @@ depende de a conta já ter um ecossistema lucrando ou não [I08Tvh4U95A, nkRg5Xs
 
 Detalhe completo de tráfego na skill `metaads-kevones` — esta aqui só produz o
 vídeo. Não replique a régua de campanha aqui; ela muda e a fonte é aquela.
+
+### Captação de b-roll sem material do cliente (fev/2024, tático — complementa, não substitui as regras 2025/26 acima)
+
+Quando o cliente não manda vídeo/foto própria (ou o produto não dá pra filmar
+direto), Kevones busca clipe pronto em banco de imagem e edita por cima
+[kO_4gtzhgVo fev/2024]:
+
+- **4 bancos usados, nessa ordem de preferência por nicho:** TikTok e Reels (busca
+  por hashtag/palavra-chave do nicho — prioriza vídeo SEM logo e SEM texto
+  queimado, pra poder reeditar por cima); Pinterest (muito vídeo em HD, também sem
+  logo); Pexels (só imagem/vídeo 4K+, menos volume mas qualidade mais alta —
+  preferido pra nicho de alto padrão, ex. estética, clínica).
+- Vale usar clipe de categoria PARECIDA ao produto quando não existe clipe do
+  produto exato (ex.: cliente de marmoraria → buscar "mármore"; sem resultado,
+  "sofá" ou nicho adjacente) — pega a IDEIA do clipe, não precisa ser o produto
+  litoralmente igual.
+- **Narração sem ator/cliente disponível:** ElevenLabs (configurar o modelo
+  "Eleven Multilingual v2" — o v1 não tem português). Escrever números por
+  extenso no roteiro ("sete", não "7") porque o TTS em inglês tende a ler
+  numeral como inglês. Roteiro pode ser gerado no ChatGPT ("texto persuasivo
+  pra [nicho], com CTA de urgência no final") e colado direto no ElevenLabs.
+- **Edição:** Premiere (preferência pessoal) ou CapCut (gratuito, alternativa pra
+  quem não tem PC que rode Premiere) — cortar, sincronizar áudio com o clipe,
+  música de fundo. Para estático: Canva.
+- **Alternativa de narração "amadora proposital":** gravar roteiro como vídeo
+  TikTok com narrador automático da própria plataforma, depois extrair só o
+  áudio — Kevones diz que esse estilo "não profissional" às vezes converte
+  melhor que ElevenLabs justamente por parecer indicação real, não produção.
+
+### Hierarquia de métricas pra decidir manter/matar criativo (fev/2024 — nomes de métrica datados, mas a ORDEM de leitura é igual à do funil 2026 em `metaads-kevones`)
+
+Ordem de decisão, parando na primeira que reprovar: **(1) gerou venda?** sim →
+mantém, ignora todo o resto (CTR baixo não importa se vende). **(2) CTR geral**
+("todos", não só clique no link) acima de 2% — abaixo disso, criativo não está
+chamando atenção. **(3) taxa de engajamento** (classificação de qualidade +
+engajamento + conversão, no próprio relatório de anúncios) — pelo menos na
+média; abaixo da média nos três ao mesmo tempo = criativo fadado a não performar.
+**(4) CPC** barato (CTR alto implica CPC baixo, e vice-versa). Teste com no
+mínimo 5-7 criativos por conjunto (catálogo é exceção: roda só o catálogo).
+Proporção sugerida: mais estático que vídeo no teste inicial (2-3 imagens pra
+1-2 vídeos) — vídeo dá mais retrabalho pra produzir, então acerta a imagem
+primeiro. Duração mínima pra julgar: 24-72h (verba baixa) ou os 7 dias que a
+própria Meta recomenda (verba alta — o algoritmo "aprende" a audiência e
+entrega mais barato pro mesmo público depois de 7 dias ativos). CBO (orçamento
+a nível de campanha) é a preferência dele pra todo teste, incluindo tráfego
+local — "faz o Facebook trabalhar gastando menos com mais conjuntos".

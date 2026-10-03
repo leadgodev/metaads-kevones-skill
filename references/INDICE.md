@@ -6,9 +6,13 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 
 ## Comece aqui! (Obrigatório)
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/01-comece-aqui.md`](aulas/01-comece-aqui.md)
+
 - [Por onde Começar?](01-comece-aqui/01-Por_onde_Come_ar.md) — aula 75
 
 ## Replays das Lives
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/02-replays-das-lives.md`](aulas/02-replays-das-lives.md)
 
 - [Pegue seu ingresso](02-replays-das-lives/01-Pegue_seu_ingresso.md) — aula 271
 - [Facebook ADS 2026 - Call Insana! (fonte 30/09/25)](02-replays-das-lives/03-Facebook_ADS_2025_-_Call_Insana_30_09_25.md) — aula 223 (título mudou; mesmo player)
@@ -25,6 +29,8 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 
 ## Ofertas Validadas (novo módulo)
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/20-ofertas-validadas.md`](aulas/20-ofertas-validadas.md)
+
 - [Saas Financeiro - Copie, cole e lucre!](20-ofertas-validadas/01-Saas_Financeiro_-_Copie_cole_e_lucre.md) — aula 96
 - [Estruturador de Sermões - Copie, cole e lucre!](20-ofertas-validadas/02-Estruturador_de_Sermoes_-_Copie_cole_e_lucre.md) — aula 97
 - [Oferta em Dólar - Gênio da Música](20-ofertas-validadas/03-Oferta_em_Dolar_-_Genio_da_Musica.md) — aula 171
@@ -32,6 +38,8 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 - [Oferta Validada - Estruturador Latam](20-ofertas-validadas/05-Oferta_Validada_-_Estruturador_Latam.md) — aula 181
 
 ## Curso de Tráfego do Zero
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/03-curso-trafego-do-zero.md`](aulas/03-curso-trafego-do-zero.md)
 
 - [Introdução](03-curso-trafego-do-zero/01-Introdu_o.md) — aula 78
 - [Preparativos Práticos](03-curso-trafego-do-zero/02-Preparativos_Pr_ticos.md) — aula 79
@@ -49,6 +57,8 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 
 ## Criando um Infoproduto
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/04-criando-infoproduto.md`](aulas/04-criando-infoproduto.md)
+
 - [Minerando Infoprodutos validados](04-criando-infoproduto/01-Minerando_Infoprodutos_validados.md) — aula 314
 - [Modelando seu Site](04-criando-infoproduto/02-Modelando_seu_Site.md) — aula 315
 - [Criando seu Infoproduto](04-criando-infoproduto/03-Criando_seu_Infoproduto.md) — aula 316
@@ -57,18 +67,26 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 
 ## Meta Ads 2026 (Machine learning - Andromeda)
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/05-meta-ads-2026-andromeda.md`](aulas/05-meta-ads-2026-andromeda.md)
+
 - [Como configurar sua conta de anúncios (Andromeda)](05-meta-ads-2026-andromeda/01-Como_configurar_sua_conta_de_an_ncios_Andromeda.md) — aula 239
 
 ## Sua oferta converte?
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/06-sua-oferta-converte.md`](aulas/06-sua-oferta-converte.md)
 
 - [Sua oferta converte?](06-sua-oferta-converte/01-Sua_oferta_converte.md) — aula 312
 
 ## Teste, otimização e Validação (Meta 2026)
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/07-teste-otimizacao-validacao.md`](aulas/07-teste-otimizacao-validacao.md)
+
 - [Estrutura de Campanhas (Atualizado)](07-teste-otimizacao-validacao/01-Estrutura_de_Campanhas_Atualizado.md) — aula 237
 - [Metrícas e Otimização na Prática](07-teste-otimizacao-validacao/02-Metr_cas_e_Otimiza_o_na_Pr_tica.md) — aula 238
 
 ## Metodologia de Escala (Meta 2026)
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/08-metodologia-de-escala.md`](aulas/08-metodologia-de-escala.md)
 
 - [Isolamento inteligente (Pré- Escala)](08-metodologia-de-escala/01-Isolamento_inteligente_Pr_-_Escala.md) — aula 240
 - [Escala diária e Progressiva](08-metodologia-de-escala/02-Escala_di_ria_e_Progressiva.md) — aula 241
@@ -77,17 +95,25 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 
 ## Empilhamento de BidCap
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/09-empilhamento-de-bidcap.md`](aulas/09-empilhamento-de-bidcap.md)
+
 - [Empilhamento de BidCap](09-empilhamento-de-bidcap/01-Empilhamento_de_BidCap.md) — aula 281
 
 ## Tráfego para SaaS
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/10-trafego-para-saas.md`](aulas/10-trafego-para-saas.md)
 
 - [Tráfego para SaaS](10-trafego-para-saas/01-Tr_fego_para_SaaS.md) — aula 313
 
 ## Tráfego para Expert
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/11-trafego-para-expert.md`](aulas/11-trafego-para-expert.md)
+
 - [Tráfego para Expert](11-trafego-para-expert/01-Tr_fego_para_Expert.md) — aula 319
 
 ## LowTicket em Dólar na Prática
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/12-lowticket-em-dolar-na-pratica.md`](aulas/12-lowticket-em-dolar-na-pratica.md)
 
 - [Low ticket em Dólar - Introdução](12-lowticket-em-dolar-na-pratica/01-Low_ticket_em_D_lar_-_Introdu_o.md) — aula 247
 - [Estrutura Básica para vender em dólar](12-lowticket-em-dolar-na-pratica/02-Estrutura_B_sica_para_vender_em_d_lar.md) — aula 248
@@ -100,11 +126,15 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 
 ## Crie um SaaS em 30 minutos
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/13-crie-um-saas-em-30-minutos.md`](aulas/13-crie-um-saas-em-30-minutos.md)
+
 - [Criando um SaaS em 30 minutos](13-crie-um-saas-em-30-minutos/01-Criando_um_SaaS_em_30_minutos.md) — aula 244
 - [Construindo a Página de Vendas](13-crie-um-saas-em-30-minutos/02-Construindo_a_P_gina_de_Vendas.md) — aula 245
 - [Conheça o SaasBuild](13-crie-um-saas-em-30-minutos/03-Conhe_a_o_SaasBuild.md) — aula 246
 
 ## Segredos do Tráfego (Avançado)
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/14-segredos-do-trafego-avancado.md`](aulas/14-segredos-do-trafego-avancado.md)
 
 - [Essa aula vai colocar 10k/Mês no seu Bolso! - Meta Ads 2025 o OURO do Tráfego Pago](14-segredos-do-trafego-avancado/01-Essa_aula_vai_colocar_10k_M_s_no_seu_Bolso_-_Meta_Ads_2025_o_OURO_do_Tr_fego_Pago.md) — aula 243
 - [Como criar Campanhas de WhatsApp que Vendem!](14-segredos-do-trafego-avancado/02-Como_criar_Campanhas_de_WhatsApp_que_Vendem.md) — aula 109
@@ -112,6 +142,8 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 - [Remarketing de Alta Frequência](14-segredos-do-trafego-avancado/04-Remarketing_de_Alta_Frequ_ncia.md) — aula 111
 
 ## MasterClass: Criativos Milionários
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/15-masterclass-criativos-milionarios.md`](aulas/15-masterclass-criativos-milionarios.md)
 
 - [Como criar criativos que convertem](15-masterclass-criativos-milionarios/01-Como_criar_criativos_que_convertem.md) — aula 98
 - [Criativos estilo TikTok](15-masterclass-criativos-milionarios/02-Criativos_estilo_TikTok.md) — aula 99
@@ -121,12 +153,16 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 
 ## Desafio do Infoproduto!
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/16-desafio-do-infoproduto.md`](aulas/16-desafio-do-infoproduto.md)
+
 - [Desafio do Infoproduto - Aula 01](16-desafio-do-infoproduto/01-Desafio_do_Infoproduto_-_Aula_01.md) — aula 141
 - [Desafio do Infoproduto - Aula 02](16-desafio-do-infoproduto/02-Desafio_do_Infoproduto_-_Aula_02.md) — aula 142
 - [Desafio do Infoproduto - Aula 03](16-desafio-do-infoproduto/03-Desafio_do_Infoproduto_-_Aula_03.md) — aula 143
 - [Desafio do Infoproduto - Aula 04](16-desafio-do-infoproduto/04-Desafio_do_Infoproduto_-_Aula_04.md) — aula 144
 
 ## Curso: Agência Milionária
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/17-curso-agencia-milionaria.md`](aulas/17-curso-agencia-milionaria.md)
 
 - [Como gerenciar campanhas de clientes](17-curso-agencia-milionaria/01-Como_gerenciar_campanhas_de_clientes.md) — aula 112
 - [As 3 melhores maneiras de fechar contratos.](17-curso-agencia-milionaria/02-As_3_melhores_maneiras_de_fechar_contratos..md) — aula 113
@@ -144,6 +180,8 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 
 ## MasterClass - Contenção
 
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/18-masterclass-contencao.md`](aulas/18-masterclass-contencao.md)
+
 - [Contenção no Meta Ads! O que você irá aprender!](18-masterclass-contencao/01-Conten_o_no_Meta_Ads_O_que_voc_ir_aprender.md) — aula 130
 - [O que é e como funciona uma contenção](18-masterclass-contencao/02-O_que_e_como_funciona_uma_conten_o.md) — aula 131
 - [Tipos de Bloqueios no Meta Ads](18-masterclass-contencao/03-Tipos_de_Bloqueios_no_Meta_Ads.md) — aula 132
@@ -151,6 +189,8 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 - [Como nunca ter Criativos Bloqueados no Meta Ads](18-masterclass-contencao/05-Como_nunca_ter_Criativos_Bloqueados_no_Meta_Ads.md) — aula 134
 
 ## Tráfego Para E-commerce
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/19-trafego-para-ecommerce.md`](aulas/19-trafego-para-ecommerce.md)
 
 - [Mensurando os dados](19-trafego-para-ecommerce/01-Mensurando_os_dados.md) — aula 145
 - [Estética e Confiabilidade](19-trafego-para-ecommerce/02-Est_tica_e_Confiabilidade.md) — aula 146
@@ -161,6 +201,8 @@ Gerado em 2026-10-02. Mapa integral: `references/mapa-curso.json`; transcriçõe
 - [Públicos quente e Remarketing](19-trafego-para-ecommerce/07-P_blicos_quente_e_Remarketing.md) — aula 151
 
 ## Outras Aulas (módulo atual do Membriz)
+
+📄 Resumo detalhado deste módulo: [`skill/references/aulas/19-trafego-para-ecommerce.md`](aulas/19-trafego-para-ecommerce.md)
 - [Como as Campanhas funcionam na Prática!](19-trafego-para-ecommerce/08-Como_as_Campanhas_funcionam_na_Pr_tica.md) — aula 230
 - [Como definir seu Objetivo de Campanha!](19-trafego-para-ecommerce/09-Como_definir_seu_Objetivo_de_Campanha.md) — aula 231
 - [Tudo sobre Conjuntos de Anúncios](19-trafego-para-ecommerce/10-Tudo_sobre_Conjuntos_de_An_ncios.md) — aula 232

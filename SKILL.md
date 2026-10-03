@@ -37,7 +37,7 @@ diretório de skills (é curso pago, fica em Documentos, não versionado):
 
 ## YouTube do Kevones (@1kevones): mais novo que o curso
 
-136 transcrições (set/2023 a set/2026) em
+164 transcrições — 100% do canal (set/2023 a set/2026) em
 `/home/lua/Documentos/TRAMPO/PROJETOS/WORKING/PROJETOS - INTERNOS/SKILL-KEVONES/transcricoes/youtube-1kevones/`
 (`videos/`, `lives/`; arquivo `AAAA-MM-DD Título [id].txt`). Análise em `analise/`:
 `RELATORIO.md` (resumo) e `notas-A..E.md` (vídeo a vídeo, por período).
@@ -53,15 +53,24 @@ vídeo mais recente. Pontos principais:
 - empilhamento de order bump, oferta de janela;
 - imposto de 2026 e ticket mínimo de R$ 47.
 
-Faltam 28 vídeos antigos (2023/24, gestor de serviço e tutoriais básicos): baixa prioridade.
+Os 28 vídeos antigos (2023/24, gestor de serviço e tutoriais básicos) foram transcritos
+em 2026-10-03: 22 via legenda, 6 via áudio+faster-whisper (sem legenda disponível).
 
 ## Estado
 
-- Curso principal (id=15): **112 aulas mapeadas**, 111 com player YouTube e texto; aula 164
-  continua sem player. A aula 158 não possui legenda e o player retornou mídia indisponível.
-- Rodada 2026-10-02: módulo **Ofertas Validadas** e 5 aulas novas (96, 97, 171, 178, 181);
+- Curso principal (id=15): **112 aulas mapeadas, 112/112 cobertas**. 110 transcritas;
+  aula 164 (sem player no Membriz) e aula 158 (vídeo de 5s, sem legenda) são exceções
+  confirmadas em 2026-10-03 — ver `references/aulas/`.
+- Rodada 2026-10-02/03: módulo **Ofertas Validadas** e 5 aulas novas (96, 97, 171, 178, 181);
   aula 332 removida; calls 223/224 tiveram apenas título atualizado, sem troca de player.
-- Curso "Close Friends do Kevones" (id=13, acesso trancado/progressivo): **não mapeado ainda** nesta passada — só o curso principal.
+  Diff antigo tinha falso-positivo (youtubeId null→valor contado como "alterada"); corrigido
+  em `scripts/atualizar.sh` e relatório refeito (ver `RELATORIOS/2026-10-02.md` no repo raiz).
+  Aulas 230-235 são cópia idêntica de 305-310 (mesma gravação, id duplicado no Membriz).
+- Resumo detalhado de cada aula/call do curso id=15 (todos os pontos, números, passo a
+  passo) em `references/aulas/<modulo>.md`, linkado a partir do `INDICE.md`.
+- Curso "Close Friends do Kevones" (id=13): **mapeado em 2026-10-03** — 5 aulas (ids 66,
+  67, 68, 69, 72), módulo "Low Ticket em Dólar + Implementação Prática" + 3 ofertas
+  validadas copie-e-cole. Ver `references/mapa-close-friends.json`.
 - Versão anterior (ago/2025, ~24 módulos com nomenclatura diferente) arquivada em `/home/lua/Documentos/1-Pessoal/cursos/SELETA-COMUNIDADE-TRAFEGO/Kevones-ANTIGO-2025-archive/` — **não usar como referência**, o curso mudou de estrutura (Andrômeda 2026, Metodologia de Escala e Empilhamento de BidCap são módulos novos).
 
 Acesso ao curso e remapeamento: ver `references/LOCAL-ACESSO.md` (arquivo local, não versionado).

@@ -1,6 +1,6 @@
 # Kevones YouTube (@1kevones): o que tem de novo e importante
 
-Gerado em 2026-10-02 a partir de 136 transcrições (130 vídeos + 6 lives, set/2023 a set/2026).
+Gerado em 2026-10-02, atualizado 2026-10-03 — 164 transcrições, 100% do canal (158 vídeos + 6 lives, set/2023 a set/2026).
 Notas detalhadas por vídeo: `notas-A.md` … `notas-E.md`. Cruzado com o curso `../../Kevones-2026/`.
 
 ## Só no YouTube (não está no curso)
