@@ -7,7 +7,8 @@ Notas detalhadas por vídeo: `notas-A.md` … `notas-E.md`. Cruzado com o curso 
 
 | Tema | O que é | Vídeos |
 |---|---|---|
-| Escala por horário (set/2026) | Dia começa com verba baixa; concentra orçamento nas horas em que o público daquela oferta mais compra (varia por nicho) | bzsllO6ereY |
+| Escala por horário (set/2026) | Dia começa com verba baixa (R$ 10–30); sobe a partir das 17h nas campanhas que vendem; janela = horário de compra de ontem. Caso contínuo de ticket R$ 24 | bzsllO6ereY, viLhlrcJPhU, Vtjdg86wDxA (ver `ESTUDO-DE-CASO-24-REAIS.md`) |
+| Agente de IA + vídeos virais (05/10/2026) | Ideação de ofertas low ticket por agente que minera vídeos com filtro de views (>100 mil). Não é regra de tráfego | fbjnXiN1RJY |
 | Método das bolhas | Segmentar pelo criativo: cada anúncio mira uma subfatia do mesmo público validado (finanças → PJ → quem odeia planilha) | 5iXDNOQl308, nkRg5Xsnxis |
 | Um criativo por dor (2026) | Não variar o vencedor (hook/música/tom): o Meta reconhece como o mesmo, o CPM sobe. Listar as dores e fazer um anúncio por dor; pode repetir o formato, não o conteúdo | cJ_dFlCyM60 |
 | Estrutura 1-1-3 (set/2026) | Evolui do 1-1-1: público validado + 3 criativos; regras de quando isolar 1 vencedor ou manter 2 disputando | 7n2jP39qbxU, viLhlrcJPhU |
@@ -28,8 +29,10 @@ Notas detalhadas por vídeo: `notas-A.md` … `notas-E.md`. Cruzado com o curso 
 
 - **Lance**: BidCap sozinho é lento (mar/2026); a preferida virou **meta de custo por resultado empilhada em várias campanhas** (maio/2026, R$ 2,7 mil+/dia). O curso tem a aula `08-metodologia-de-escala/04-Escalando_com_Meta_de_Custo`; o YouTube mostra a versão empilhada. [w05LXkTRQFs, MS4Dil4Cl6g, DiVSyr2nUuw]
 - **Escala abaixo de R$ 97**: abandona a escala diária clássica e usa verba estática + campanha de meta de custo separada. [MS4Dil4Cl6g]
+  ⚠️ **Superado** pelo vídeo `bzsllO6ereY` (22/09/2026): ticket R$ 24 com escala diária por horário e subida a partir das 17h. Vale o mais recente; é um caso só (ver `ESTUDO-DE-CASO-24-REAIS.md`).
+- **Volume de campanhas antes de ROAS 2+**: `viLhlrcJPhU` (21/09/2026) sobe o volume de campanhas com ROAS ~1,3–1,5 e não espera otimizar. ⚠️ Diverge de "preservar verba estável" do METODO; vale o vídeo.
 - **Corte de campanha**: só depois de 48h e só se o custo de finalização (IC) estiver alto **e** o volume baixo. Com IC ≤ 10% do ticket, mantém ativa mesmo sem venda (ponto de contato). Na fase de teste, sem ecossistema: corta ao gastar o CPA ou o ticket sem vender.
-- **Testar demais destrói o ROI**: 3 criativos novos por semana, não por dia (caso −R$ 2,5 mil → +R$ 6,4 mil). [nkRg5Xsnxis]
+- **Testar demais destrói o ROI**: 3 criativos novos por semana, não por dia (caso −R$ 2,5 mil → +R$ 6,4 mil). [nkRg5Xsnxis] ⚠️ Refinado por `BCorw4x7q3s` (07/08/2026): 3–5 a cada 2 dias na montagem; 2–3 por semana com volume (`DECISOES.md` §7).
 - **Interesse**: ele disse que tinha morrido (out/2025) e voltou atrás (dez/2025). Hoje mistura interesse + Advantage. [pveGidp8FaI → gyhpwnZTFnM]
 - **Engajado + comprador** configurados na conta são pré-requisito de tudo; atualizar a cada 30 dias.
 - **Nunca editar campanha ativa**: criativo novo vai em campanha duplicada com o mesmo público.

@@ -1,7 +1,9 @@
 # Método operacional Kevones — id=15 e calls
 
-Estado: 2026-10-03. Fonte primária: curso Seleta id=15 e replays; quando houver
-conflito, a fonte datada mais nova vence. Vídeos públicos são apoio e estão indicados.
+Estado: 2026-10-06. Fonte primária: curso Seleta id=15 e replays; quando houver
+conflito, a fonte datada mais nova vence. **Para decidir numa campanha, leia antes
+`DECISOES.md`** (regras por situação). Estudo de caso contínuo (3 vídeos set/2026):
+`ESTUDO-DE-CASO-24-REAIS.md`. Divergências marcadas com ⚠️ neste arquivo. Vídeos públicos são apoio e estão indicados.
 Resumo detalhado aula a aula (todos os números/exemplos/passo a passo) está em
 `skill/references/aulas/<modulo>.md` — este arquivo é só a régua de decisão.
 
@@ -62,9 +64,9 @@ qualquer produto/serviço antes de gastar 1 real.
 
 | Janela | Métricas primárias | Decisão |
 |---|---|---|
-| Primeiras 48h (modo monge) | gasto, compra, CPA, finalização/IC e volume | Não editar nem reagir cedo. Em teste sem ecossistema, gastou o CPA ou o ticket sem vender: pausar. Sem entrega (centavos): pausar. |
+| Primeiras 48h (modo monge) | gasto, compra, CPA, finalização/IC e volume | Não editar nem reagir cedo. **48h é a 1ª decisão, por anúncio** (não 7 dias): em teste sem ecossistema, gastou o CPA ou o ticket sem vender = pausar. Sem entrega (centavos) = desliga NESTA campanha, mas não é descarte: vai pra campanha nova de teste (isolamento inteligente, abaixo). |
 | 48h+ | IC como % do ticket, volume de IC, CPA e compras | IC alto **e** pouco volume: pausar. IC até ~10% do ticket mesmo sem compra pode ficar em conta com ecossistema; é ponto de contato. IC acima de ~10–20% do ticket tende a puxar CPA e deve sair. |
-| 7 dias | CPA, compras, margem/lucro, criativo por dor | Não matar por um dia ruim. Se há 2+ compras no CPA, isolar vencedor 1-1-1. Se uma dor não gera sinal, trocar a dor/ângulo, não microvariação. |
+| 7 dias | CPA, compras, margem/lucro, criativo por dor | Só pro que sobreviveu às 48h com potencial (venda ou IC barato). Não matar por um dia ruim. Se há 2+ compras no CPA, isolar vencedor 1-1-1. Se uma dor não gera sinal, trocar a dor/ângulo, não microvariação. |
 | 14 dias | tendência de CPA e fadiga | CPA subindo por 14d caracteriza fadiga; crie campanha nova com ângulo novo. Não adicione criativo à campanha vencedora. |
 | 30 dias | lucro absoluto, volume, ROAS, dados de base | Escala pede volume e dados; ROAS menor com mais lucro pode ser melhor. Atualize públicos e compare janelas 7/15/30d de IC e 30d de engajamento. |
 
@@ -96,12 +98,19 @@ todo o curso. Analisar NESTA ordem, parando no primeiro ponto com problema:
 - **1-1-3 → 1-1-1:** com público validado, uma campanha/um conjunto/três criativos de dores
   distintas; 2+ compras no CPA isolam o vencedor. Nunca mexer na campanha que já vende.
   Fonte: YouTube `7n2jP39qbxU`, `tTJNpAVAs5I` (set/2026).
+- ⚠️ **Divergência (vale `7n2jP39qbxU`, 17/09/2026, `YOUTUBE-REGRAS-NOVAS-2026-10.md` §3):** o vencedor **fica na campanha atual**; não é duplicado. Só as variáveis não testadas vão para campanha nova. A regra de duplicação abaixo é a antiga. Ver `DECISOES.md` §4.
 - **Isolamento inteligente (fase 2 do método, aula 243):** campanha de teste
   (3 públicos × 7-15 criativos, orçamento a nível de campanha) se transforma em 1-1-1
   quando um público+criativo específico junta 2+ vendas mantendo o CPA — desliga-se
-  todo o resto DENTRO dessa campanha. Para continuar crescendo: duplicar a campanha
-  excluindo da cópia o que já foi isolado E o que "gastou e estourou"; repetir.
-  Nunca repetir a MESMA combinação público+criativo em duas campanhas (isso satura).
+  todo o resto DENTRO dessa campanha. Para continuar crescendo ("duplicação
+  inteligente"): campanha NOVA só com o que **não gastou ou demonstrou potencial**
+  (ex.: público P3 que vendeu + criativo C3 que não gastou), pra testar separado se
+  ele segura as métricas. Fica fora da cópia o que já foi isolado e o que "gastou e
+  estourou" o CPA; repetir. Criativo que não gastou NÃO é descartado: é desligado na
+  campanha original e testado na nova. **Nunca adicionar criativo numa campanha que
+  já existe** (nem na de teste, nem na isolada): criativo novo sempre entra em campanha
+  nova. Nunca repetir a MESMA combinação público+criativo em duas campanhas (isso satura).
+  Fonte: aula 243 (`curso-id15/08-metodologia-de-escala/01-Isolamento_inteligente_Pr_-_Escala.md`).
   Resultado citado: 7 dias duplicando campanha errado vs. 7 dias de isolamento
   inteligente dobrou o faturamento no mesmo produto.
 - **Campanha inteligente (aulas 154, 155, 243):** variante mais recente do 1-1-1 —
@@ -111,6 +120,7 @@ todo o curso. Analisar NESTA ordem, parando no primeiro ponto com problema:
   bem baixa (R$3-5/dia), só pro público MAIS quente (quem iniciou checkout 7 dias +
   lista de clientes + seguidores + quem viu a Landing page 180 dias) — essa campanha
   de manutenção tende a ROAS muito alto (case real: 12x) com verba mínima.
+- ⚠️ **Divergência (vale YT:bzsllO6ereY, 2026-09-22):** o vídeo decide subir verba por ROAS e gap de CPA atual × máximo, e começa o dia baixo. A regra abaixo (aula 243) é a antiga; a trava de "não passar do faturado" continua valendo. Ver `DECISOES.md` §6.
 - **Escala diária (regra numérica completa, aula 243):** NUNCA decidir aumento de
   verba olhando CPA ou ROAS — olhar só VOLUME de vendas e VALOR FATURADO no dia.
   Aumentar a partir da 2ª venda do dia; o novo orçamento nunca pode passar do valor
@@ -142,7 +152,7 @@ todo o curso. Analisar NESTA ordem, parando no primeiro ponto com problema:
 ## Remarketing de alta frequência (aula 111)
 
 Públicos de SITE (Pixel ativo): Page View, Initiate Checkout, Add to Cart — cada um
-em 3 retenções (7/15/30 dias); excluir SEMPRE quem já comprou (Purchase 30-60 dias).
+em 3 retenções (7/15/30 dias); excluir SEMPRE quem já comprou (Purchase 30-60 dias). ⚠️ Vídeo `Vtjdg86wDxA` (2026-09-29) exclui compradores dos últimos **180 dias**: vale o mais recente.
 Públicos de REDES: "ao Insta" (toda interação) e "ao Face", 7/15/30 dias; "Seguidores"
 sem variação de dias. 3 formas de organizar (trade-off verba vs. granularidade):
 (1) todos os eventos juntos por retenção (3 conjuntos total, mais econômico, menos

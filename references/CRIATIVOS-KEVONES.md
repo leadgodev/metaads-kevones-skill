@@ -94,7 +94,7 @@ O que o mercado chama de *hook*, ele chama de **gatilho**. São três:
 | Tipo | Melhor para | Estrutura |
 |---|---|---|
 | **Estilo TikTok** | vender **e** levar lead pro WhatsApp — *"o que mais está convertendo pra mim"* | história pessoal, **não parece anúncio** |
-| **Direto ao ponto** | ambos, e serve remarketing | produto + preço + CTA. Qualifica: *"Só vai clicar quem quer comprar. Curioso? Não clica, curioso."* |
+| **Direto ao ponto** | ambos, e serve remarketing | produto + preço + CTA (no vídeo, preço e condição ficam fora da fala e do fecho; estático e carrossel podem mostrar). Qualifica: *"Só vai clicar quem quer comprar. Curioso? Não clica, curioso."* |
 | **De dicas** | ambos, principalmente audiência e seguidor | ensina, dá migalha. *"Caiu na rede é remarketing."* |
 | **De catálogo** | e-commerce / volume | mostra os produtos |
 
@@ -215,7 +215,7 @@ depende de a conta já ter um ecossistema lucrando ou não [I08Tvh4U95A, nkRg5Xs
 | Já tem ecossistema lucrando: sem venda, mas **muitas finalizações baratas** (custo ≤ ~10% do ticket) | **mantém**: é ponto de contato e barateia as outras |
 | Custo por finalização bem acima de 10–20% do ticket | **mata**: vai puxar o CPA para cima |
 | Depois de 48h: custo de finalização alto **e** volume baixo | **mata** [viLhlrcJPhU] |
-| **Não gastou** (centavos) | **mata** também |
+| **Não gastou** (centavos) | **desliga nesta campanha**, mas não descarta: vai pra campanha NOVA de teste junto com o público que vendeu (isolamento inteligente, aula 243). Nunca enfiar na campanha que já existe |
 | Fadiga (CPA subindo em 14 dias, e não só em 7) | criativo saturou: faça um de **ângulo novo**, não variação dele |
 
 Detalhe completo de tráfego na skill `metaads-kevones` — esta aqui só produz o
