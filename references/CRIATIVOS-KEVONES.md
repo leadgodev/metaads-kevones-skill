@@ -79,6 +79,35 @@ E fadiga de criativo **não** é motivo para matar:
 > continua rodando? Tá com fadiga de criativo, já faz cinco meses. **Porque ele
 > vende, porque ele mantém o CPA.** Se mantém o CPA, deixa o pau torar."
 
+### A variação que ele AUTORIZA: "o copo azul" (`YT:Hwu1hmmM4_Q`, 08/10/2026)
+
+Não é a variação rasa que ele derruba acima. É outra coisa: **mantém o produto e a
+copy, troca quem/onde**. Anúncios diferentes, copy igual.
+
+> "Se eu validei um anúncio em formato de **vídeo**, eu uso a **mesma copy** e
+> mudo ele pra um formato de **imagem** e mudo ele para um formato de **carrossel**.
+> Eu valido um anúncio **estático**, eu crio diversas variações do anúncio estático
+> com **designs completamente diferentes, mas com a mesma copy e com a mesma cor**."
+> — `Hwu1hmmM4_Q`
+
+O exemplo dele: validou o anúncio do **copo azul** ("Copo azul. Compre agora."),
+com ele segurando o copo. O que converte é o **copo azul** + a copy. Então pode:
+
+- trocar **quem** segura (outra pessoa, uma mulher);
+- trocar **onde** (na praia tomando sol, em cima da mesa, em cima da cadeira, com óculos).
+
+Sempre **o mesmo copo azul**, sempre **a mesma copy**. [Hwu1hmmM4_Q]
+
+**A régua:** o que não pode mudar é o **produto + a copy**. O que pode mudar é
+**quem** e **onde** — e ainda vale para os **dois formatos**: vídeo vencedor
+gera imagem e carrossel com a mesma copy; estático vencedor ganha designs
+novos com a mesma copy e a mesma cor.
+
+⚠️ Continua valendo o resto: variação entra **em campanha nova**, nunca
+adicionada na campanha que está rodando, e **nunca** duplicando campanha
+idêntica — duplicar campanha em 2026 é o que trava o ROI em 1,3 (ele: *"se você
+faz isso ainda em 2026, é por isso que seu ROI não passa de 1,3"*).
+
 ### Os GATILHOS — como Kevones começa um anúncio (`16/63`)
 
 O que o mercado chama de *hook*, ele chama de **gatilho**. São três:
