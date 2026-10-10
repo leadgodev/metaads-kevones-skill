@@ -18,7 +18,8 @@ Legenda: `YT:id` = vídeo (`INDICE-YOUTUBE.md`); `Aula N` = `INDICE-CURSO-RESUMO
 Índice: 1 oferta nova/teste · 2 primeiras 48h · 3 dia 7 · 4 validou (isolar) · 5 escalar ·
 6 horário · 7 CPA subindo · 8 fadiga · 9 público de base e seguidores · 10 ticket baixo ·
 11 bloqueio · 12 volume · 13 produto novo (lançamento) · 14 campanha pausada ·
-15 densidade e contradição · 16 gargalo (régua).
+15 densidade e contradição · 16 gargalo (régua) · 17 ritmo de teste (quantos 1-1-3 por dia) · 18 escalar do criativo validado (CPA/BidCap/1-1-10) ·
+19 mineração por demanda (vídeo escalado → produto) · 20 meta de custo por resultado.
 
 ---
 
@@ -101,6 +102,12 @@ Legenda: `YT:id` = vídeo (`INDICE-YOUTUBE.md`); `Aula N` = `INDICE-CURSO-RESUMO
 - **SE** a campanha começa o dia **ENTÃO** comece com verba baixa (R$ 10–30 por campanha). — `YT:bzsllO6ereY` (22/09).
 - **SE** é o horário de pico (o vídeo diz "a partir das 17h", oferta sem rosto de infoproduto)
   **ENTÃO** suba a verba das campanhas que vendem. — `YT:bzsllO6ereY`.
+  ⚠️ **"17h" é o exemplo do vídeo para AQUELA oferta, não regra universal.** O pico de horário é
+  **de cada oferta**: pegar com `trackeador horario --dashboard <oferta> --period max` (o CLI já
+  imprime `Pico da oferta: HHh…` + confiança). Ex.: no Mapa do Tarot BR **17h é a hora mais MORTA**
+  (0 venda, ×0,5, maior gasto) e o pico real é 07h/09h/10h; no Jiu-Jitsu o pico é 09h/10h/16h.
+  **Nunca copiar hora de outra oferta (principalmente de oferta deletada/de teste).** Confiança
+  baixa (poucas vendas) → não escalar por hora.
 - **SE** quer a janela de hoje **ENTÃO** use o horário de compra de **ontem**. — `YT:bzsllO6ereY`.
 - **SE** a campanha vendeu bem ontem **ENTÃO** não comece hoje com o gasto de ontem: reset para a verba
   baixa e suba no pico. — `YT:bzsllO6ereY`.
@@ -259,6 +266,133 @@ a própria oferta é comparação secundária.
 - **SE** CTR alto e clique não vira página **ENTÃO** é problema de link, carregamento ou promessa
   diferente (`REGRAS §10`: página lenta = problema antes do criativo).
 - **Um nome por métrica em todo lugar:** "início de checkout" ≠ "custo por finalização" no texto.
+- **Caso do gargalo-página (10/10/2026):** 30 criativos, ~10 campanhas 1-1-3, CTR bom, muita
+  pessoa indo pra página, preço barato — e **zero IC**, R$ 100 gastos em 1 dia.
+  **CTR alto + página com volume + IC zerado = a página está errada, não o criativo.**
+  Pausar e consertar a página; não trocar criativo nem subir verba.
+- **SE** o anúncio mostra a **antes** e a página mostra só o **depois** **ENTÃO** o criativo está
+  desalinhado da página. A página precisa **carregar o antes também** — vídeo que abre na cena
+  suja (piscina suja), segue e resolve no antes/depois.
+  - Exemplo real: produto de piscina. Todo vídeo do YouTube que performa abre **na piscina suja**.
+    A página tinha só o resultado final, sem o vídeo. O caminho não era matar 30 criativos
+    bons — era levar o **antes** (piscina suja, antes/depois) para a página.
+- **Leitura:** volume na página + IC 0 não é criativo ruim. É promessa que a página não cumpre
+  (ou não mostra). Conferir a página antes de matrar criativo.
+
+## 17. Ritmo de teste: quantas campanhas 1-1-3 por dia
+
+**SE** é dia de subir teste novo **ENTÃO** conte o risco ANTES de subir, não depois.
+
+- **Duas formas de testar, mesmo resultado semanal:**
+  - 1 campanha a cada 48h → ~3 testes por semana;
+  - 3 campanhas 1-1-3 **no mesmo dia** → mesmo volume, mesmo número de criativos.
+- **SE** o dia é bom e os criativos já estão prontos **ENTÃO** 3× 1-1-3 no mesmo dia acelera o
+  número de campanhas e o level-up. Vantagem real: nada fica parado esperando o dia seguinte.
+- **Baseline dele é 1 campanha/dia**, não 3 (`YT:viLhlrcJPhU`: 12 → 42 campanhas em 3 dias). Concentrar
+  3 num dia só é decisão da dona, com caixa conferida — não é a prática padrão do Kevones.
+- **SE** mais de uma oferta sobe teste no mesmo dia **ENTÃO** some o dinheiro no pior caso antes de decidir:
+  3 campanhas × R$ 35 = **R$ 105 por oferta**. Com 4 ofertas = **R$ 400** num único dia.
+- **Caixa obrigatória:** a dona precisa de reserva pra esse pior caso. Sem caixa, nunca junte ofertas.
+- **Regra de espaçamento (vale por padrão):** **uma oferta por dia** — hoje Tarot, amanhã Jiu-Jitsu,
+  depois Eletrotecnia. Não fazer 2–3 testes no mesmo dia "porque dá pra fazer".
+- **SE** dois testes no mesmo dia forem mesmo necessários (verba parada, criativo já pronto, dia
+  comprovadamente bom) **ENTÃO** tudo bem — **por decisão consciente**, com o caixa conferido antes.
+- **Dois riscos do modelo concentrado:** dia ruim do Meta (gasta tudo e não vende) e dia ruim daquela
+  oferta específica (problema da página, preço, criativo). Espaçar isola o dano em uma oferta só.
+- **Fazer criativo é o gargalo, não o dia:** juntar 3 campanhas força fazer 3 criativos no mesmo dia —
+  tudo renova junto e nada dá tempo de respirar. Não concentr sem os criativos prontos.
+
+**[inferido]** — ditado da dona em 10/10/2026, sobre a dúvida "3 campanhas 1-1-3 num dia só".
+Não vem de vídeo/aula do Kevones; combina com §12 (volume de campanhas é a primeira alavanca).
+
+## 18. Escalar a partir do criativo validado (CPA, BidCap, 1-1-10)
+
+O criativo que já validou é o ativo mais barato que existe: **não se testa de novo, se escala.**
+
+- **SE** o criativo já validou **ENTÃO** abra campanhas novas **só com criativos validados** —
+  em estrutura CPA e BidCap. Criativo novo continua sendo campanha nova (§4), mas criativo
+  **validado** entra direto em campanha de escala, sem passar por validação de novo.
+- **SE** tem 5 criativos vencedores **ENTÃO** monte **as duas**: uma **1-1-5 em CPA** e uma
+  **1-1-5 em BidCap**, com **os mesmos 5 criativos**. Uma estrutura **não** substitui a outra:
+  o criativo fica **isolado no 1-1-1** dentro de cada uma **e** disputa dentro do 1-1-5.
+  São campanhas distintas, com lance diferente — não é a mesma campanha duplicada.
+  - **Por que as duas:** CPA entrega no custo; BidCap segura o gasto pelo lance. Juntas dão
+    leitura dupla do mesmo criativo validado (uma no custo, outra no lance) sem torrar verba.
+  - Ver na prática: CPA 1-1-5 + BidCap 1-1-5 é o par que estava rodando bem — as duas Analyses do
+    Eletrotecnia (CPA 1-1-3 e as de BidCap/ISO) são exatamente esse par.
+- **SE** quer isolar um vencedor **ENTÃO** pode fazer **1-1-1 individual** com verba maior desde o
+  começo (ex.: **R$ 100/dia no CPA**) — individual é permitido quando o criativo já vendeu.
+- **SE** monta BidCap **ENTÃO** o lance vai na casa do CPA-alvo, nunca abaixo: ticket R$ 37 →
+  **BidCap 15** é o exemplo de "valor que funciona" (abaixo do CPA do anúncio, acima do piso do Meta).
+- **SE** o criativo vencedor é **imagem** e a oferta já tem ROAS 1,5 **ENTÃO** escale com
+  **1-1-10**: três campanhas, cada uma com variações do criativo vencedor. *(`YT:viLhlrcJPhU`:
+  40 anúncios, todos modelados sobre o que já vendeu na validação — nunca o mesmo anúncio duplicado.)*
+- **Variação é variação de cena/composição, não de oferta:** o **produto e o copy ficam idênticos**.
+  Exemplo (garrafa/copo do dropout): *"compre esta garrafa azul"* — variação 1 = Kevones segurando
+  a garrafa; variação 2 = Kevones na praia com a mesma garrafa; variação 3 = outra pessoa (ator,
+  mulher) com a mesma garrafa; variação 4 = garrafa em cima da cadeira; variação 5 = garrafa em cima
+  da mesa. Muda **quem/onde aparece**, nunca a promessa.
+  ✅ **Fonte confirmada em `YT:Hwu1hmmM4_Q` (08/10/2026)** — "copo azul, compre agora": muda o
+  ambiente (mesa, praia, outra pessoa), **o copo e o copy continuam os mesmos**. E validou vídeo →
+  mesma copy vira imagem e carrossel. Ver §20.
+- **Leitura errada:** "é a mesma oferta" **não** é motivo para não subir. É motivo para variar a cena.
+  Criativo repetido na mesma campanha satura (§4); criativo repetido em campanhas novas é a estratégia.
+
+**[inferido]** — ditado da dona em 10/10/2026. A base (não esperar otimizar, 1-1-3, volume de
+campanhas, anúncios modelados sobre a validação) vem de `YT:viLhlrcJPhU`; a parte de **1-1-10** é
+a live registrada em `KEVONES/README.md` ("3 campanhas 1-1-10 com variações das imagens vencedoras").
+Os exemplos concretos (1-1-5, 1-1-1 com R$ 100, BidCap 15 em ticket R$ 37, a garrafa) são da dona.
+
+## 19. Mineração por demanda (a segunda rota, além da Biblioteca)
+
+A Biblioteca de Anúncios é uma rota. Existe outra, mais barata e mais "mar azul": **achar a dor
+real em vídeo que já escalou no YouTube e montar o produto low ticket em cima dela.**
+
+- **SE** um vídeo no YouTube está muito escalado **ENTÃO** leia como sinal de demanda, não como
+  criativo: a dor da pessoa é o produto. O criativo é o **preço de entrada**; a oferta é a solução.
+- **SE** a dor do vídeo é resolvível com produto digital low ticket **ENTÃO** ela vira concepção
+  de oferta — mesmo que **ninguém esteja vendendo isso ainda**. Ausência de anúncio concorrente
+  **não** é ausência de mercado; é o sinal de espaço aberto.
+- **Kevones roda um agente** que faz essa varredura: vídeos muito escalados → dor → produto
+  low ticket que resolve essa dor.
+- **As duas rotas convivem:** Biblioteca (o que já é vendido, com concorrência mensurável) e
+  demanda (dor real em vídeo escalado, com ou sem concorrência). Proposta de oferta nova costuma
+  sair de cruzar as duas — dor com evidência de demanda **e** espaço competitivo.
+
+**[inferido]** — ditado da dona em 10/10/2026. Sem vídeo/aula transcrita que.details ainda;
+quando ela mandar o vídeo, trocar por fonte com id e data.
+
+## 20. Meta de custo por resultado — a estrutura subestimada — `YT:Hwu1hmmM4_Q` (08/10/2026)
+
+Caso real: produto **sem rosto**, ticket **R$ 47**, **5 campanhas ativas**, **ROAS 2**, 7d **R$ 2.000**
+de lucro, 30d R$ 6.000. Uma campanha sozinha: 59 vendas, CPA R$ 19, R$ 1.140 de gasto, >R$ 3.000 de volta.
+
+- **SE** a oferta já valida com ROI ≥ 1,5 **ENTÃO** a estrutura de **valor/volume mais alto não é o
+  teto** — ela é só o **começo da validação**. Ela "pouco compra, não muita verba": budget sobe,
+  venda para. Por isso ROAS não sai de 1,3.
+- **A ordem é:** valida em **valor/volume alto** → monta ecossistema → **aí** entra
+  **meta de custo + BidCap + CBO + isolamento, em paralelo**, na mesma conta ou numa conta separada.
+- **SE** quer meta de custo bem configurada **ENTÃO** faça **conta de anúncios separada só para ela**,
+  recebendo só os anúncios **já validados**. O vídeo faz exatamente isso. — `YT:Hwu1hmmM4_Q`.
+- **Orçamento:** o teste **já começa com R$ 100/dia**. **Não validou, mata.** (É o §1 com número: R$ 100.)
+- **Meta de custo (o CPA-alvo) vai ABAIXO do ticket:** ticket R$ 47 → meta **R$ 12 a R$ 14**.
+  É o CPA máximo com ROI já só no front — sem order bump nenhum. Com 3 order bumps no mínimo,
+  a operação fecha com folga.
+- **Conjunto = "conquistar novos clientes"** (exclui engajados e compradores), para não mostrar o
+  anúncio pra quem já interagiu e não comprou. **Pré-requisito:** subir as listas **público
+  engajado** e **público comprador** nos *segmentos de público* da conta. É configuração básica —
+  sem isso a exclusão não existe. — `YT:Hwu1hmmM4_Q`.
+- **Meta de custo não é o lance "mais estável e mais barato":** as campanhas **aguentam verba e
+  mal pago**. Pode continuar subindo o orçamento que o volume de venda acompanha.
+- ⚠️ **Otimização de meta de custo é diferente:** demora mais, e nos primeiros 1–2 dias **não vende
+  e está normal**. Julgar por métrica **principal e secundária** (§12), não por venda no dia 1. —
+  `YT:Hwu1hmmM4_Q`.
+- **Variação de criativo validado — a regra com fonte** (§18): **copy igual, produto igual**.
+  Validou em vídeo → mesma copy em **imagem** e **carrossel**. Validou em estático → variações de
+  **design** diferentes, **mesma copy e mesma cor**. Muda **quem/onde** (mesa, praia, outra pessoa).
+  **Duplicar campanha idêntica em 2026 = ROI travado em 1,3.** — `YT:Hwu1hmmM4_Q`.
+- **1-1-1 por campanha**: uma campanha, um público, um anúncio — cada campanha ativa é um criativo
+  validado, não uma cópia. — `YT:Hwu1hmmM4_Q`.
 
 ---
 
