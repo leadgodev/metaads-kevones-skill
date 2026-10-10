@@ -305,6 +305,21 @@ a própria oferta é comparação secundária.
 **[inferido]** — ditado da dona em 10/10/2026, sobre a dúvida "3 campanhas 1-1-3 num dia só".
 Não vem de vídeo/aula do Kevones; combina com §12 (volume de campanhas é a primeira alavanca).
 
+### 17b. Por que o dia concentrating funciona — o problema do "teste que não vende" [inferido]
+
+Ditada da dona em 10/10/2026, como novidade das **lives mais recentes do Kevones** (sem
+transcrição no canal até 10/10 — pedir o vídeo e trocar `[inferido]` por `YT:<id>`):
+
+- **O problema do ciclo de 48h:** testando a cada 48h, o **ROI fica sempre baixo**, porque os
+  testes que **não vendem se acumulam** com os que vendem — a verba dos fracassados consome a
+  verba dos vencedores e a conta fica numa mistura sem leitura.
+- **O modelo do dia concentrating:** escolhe-se **um dia fixo** (dia da semana) e sobe-se tudo
+  naquele dia. Assim se valida **pelo menos 3 criativos de uma leva de 9 de uma vez**, e na
+  semana seguinte o conjunto já é grande o bastante para ler.
+- **Consequência prática:** o motivo de escolher o dia **não é só velocidade**, é
+  **separar o lote que vende do lote que não vende**, para poder matar o lote inteiro de uma vez.
+- ⚠️ Só funciona com os **3 criativos já prontos** —produzir criativo é o gargalo, não a verba.
+
 ## 18. Escalar a partir do criativo validado (CPA, BidCap, 1-1-10)
 
 O criativo que já validou é o ativo mais barato que existe: **não se testa de novo, se escala.**
